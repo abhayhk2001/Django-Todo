@@ -1,0 +1,4 @@
+*.code-workspace
+env/
+todo/db.sqlite3
+.vscode/
