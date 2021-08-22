@@ -1,4 +1,6 @@
 *.code-workspace
 env/
-todo/db.sqlite3
+**/db.sqlite3
 .vscode/
+**/__pycache__/
+**/migrations/
